@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityLifeCycleKotlin</string>
+    <string name="TextView01">Activity Life Cycle</string>
+</resources>
